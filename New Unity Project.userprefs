@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\StartMenu\StartMenuController.js">
+    <Files>
+      <File FileName="Assets\Scripts\StartMenu\StartMenuController.js" Line="61" Column="2" />
+      <File FileName="Assets\Scripts\Effects\CameraRotationEffect.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StartMenu\StartMenuController.js" Line="25" Column="23" />
+      <File FileName="Assets\Scripts\MVC\ViewInterface.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StartMenu\LoginData.js" Line="10" Column="2" />
+      <File FileName="Assets\Scripts\StartMenu\LoginView.js" Line="73" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
